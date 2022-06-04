@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfdec43-5aec-4b12-9e8c-381ec19705f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-my_mock_api/.idea/my_mock_api.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/observable/src/app/services/my-service-contracts.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-binding/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/app/app.component.html" afterDir="false" />
@@ -14,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/data-binding/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/polyfills.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/event-binding" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event-binding/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/event-binding/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/event-binding/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/event-binding/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding/src/app/app.component.html" afterDir="false" />
@@ -21,11 +20,13 @@
       <change beforePath="$PROJECT_DIR$/event-binding/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding/src/polyfills.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/event-binding/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/event-binding/src/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal" beforeDir="false" afterPath="$PROJECT_DIR$/modal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/modal/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/modal/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/modal/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modal/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/modal/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/observable" beforeDir="false" afterPath="$PROJECT_DIR$/observable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observable/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/observable/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/observable/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/observable/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/observable/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiro-projeto" beforeDir="false" afterPath="$PROJECT_DIR$/primeiro-projeto" afterDir="false" />
@@ -46,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/observable" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25YTpnIBJUeES4ITlBp07orOgw2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspaceNext/contact-center-client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\dev\workspaceMateus\myAngular\primeiro-projeto\node_modules\typescript\lib" />
   </component>
@@ -107,7 +108,7 @@
       <workItem from="1652892399373" duration="17000" />
       <workItem from="1652892524918" duration="9000" />
       <workItem from="1653407280883" duration="1853000" />
-      <workItem from="1654263386515" duration="28027000" />
+      <workItem from="1654263386515" duration="28330000" />
     </task>
     <servers />
   </component>
