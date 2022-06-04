@@ -30,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/observable/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/observable/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/observable/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/observable/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiro-projeto" beforeDir="false" afterPath="$PROJECT_DIR$/primeiro-projeto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeiro-projeto/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiro-projeto/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/primeiro-projeto/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiro-projeto/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/primeiro-projeto/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiro-projeto/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/primeiro-projeto/src/app/app.module.ts" afterDir="false" />
@@ -108,7 +109,7 @@
       <workItem from="1652892399373" duration="17000" />
       <workItem from="1652892524918" duration="9000" />
       <workItem from="1653407280883" duration="1853000" />
-      <workItem from="1654263386515" duration="28330000" />
+      <workItem from="1654263386515" duration="28484000" />
     </task>
     <servers />
   </component>
